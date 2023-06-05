@@ -11,3 +11,5 @@ Starting with Local restaurants and will be sorted by specific keywords and fiel
 Finishing Week 1 of Cybersecurity as well as continuing codecademy certificate course on Javscript. 
 
 Finished Week 1 of Cybersecurity - 6/3/23
+
+Half way through Cybersecurity Week 2 - 6/4/23
