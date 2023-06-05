@@ -14,6 +14,8 @@ Finished Week 1 of Cybersecurity - 6/3/23
 
 Half way through Cybersecurity Week 2 - 6/4/23
 
+# Website and Apps
+
 beginning on a new restaurant app - 6/4/23
 
 beginning a new website for restaurant app - 6/4/23
