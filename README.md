@@ -14,8 +14,16 @@ Finished Week 1 of Cybersecurity - 6/3/23
 
 Half way through Cybersecurity Week 2 - 6/4/23
 
+Finished Week 3 of Cybersecurity - 6/5/23
+
 # Website and Apps
 
 beginning on a new restaurant app - 6/4/23
 
 beginning a new website for restaurant app - 6/4/23
+
+Added more data for the back-end database -6/5/23
+
+# Stable Diffusion 
+
+Installed and started playing around with Stable Diffusion - 6/5/23
