@@ -27,3 +27,5 @@ Added more data for the back-end database -6/5/23
 # Stable Diffusion 
 
 Installed and started playing around with Stable Diffusion - 6/5/23
+
+Worked on personal website React & Tailwind - 6/9/23
