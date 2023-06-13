@@ -20,6 +20,10 @@ Finished Week 4 of Cybersecurity - 6/13/23
 
 Enrolled in Calbrightcollege - IT - 6/12/23
 
+Reviewing Meta Front-end engineer certificate program - 6/13/23
+- just need to finish my capstone project
+Next step is to being the Meta back-end engineer certificate - 6/13/23
+
 # Website and Apps
 
 beginning on a new restaurant app - 6/4/23
