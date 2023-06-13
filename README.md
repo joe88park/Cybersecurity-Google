@@ -16,6 +16,10 @@ Half way through Cybersecurity Week 2 - 6/4/23
 
 Finished Week 3 of Cybersecurity - 6/5/23
 
+Finished Week 4 of Cybersecurity - 6/13/23
+
+Enrolled in Calbrightcollege - IT - 6/12/23
+
 # Website and Apps
 
 beginning on a new restaurant app - 6/4/23
