@@ -24,16 +24,22 @@ Reviewing Meta Front-end engineer certificate program - 6/13/23
 - just need to finish my capstone project
 Next step is to being the Meta back-end engineer certificate - 6/13/23
 
+On week 2 of Cybersecurity. Halfway done. - 6-16-23
+
+
+
 # Website and Apps
 
 beginning on a new restaurant app - 6/4/23
 
 beginning a new website for restaurant app - 6/4/23
 
-Added more data for the back-end database -6/5/23
+Added more data for the back-end database for restaurant app -6/5/23
 
 # Stable Diffusion 
 
 Installed and started playing around with Stable Diffusion - 6/5/23
 
 Worked on personal website React & Tailwind - 6/9/23
+
+Worked on personal website React & Tailwind - 6/16/23
