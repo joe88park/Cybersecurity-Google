@@ -24,7 +24,9 @@ Reviewing Meta Front-end engineer certificate program - 6/13/23
 - just need to finish my capstone project
 Next step is to being the Meta back-end engineer certificate - 6/13/23
 
-On week 2 of Cybersecurity. Halfway done. - 6-16-23
+On week 2 of Module 2 Cybersecurity. Halfway done. - 6-16-23
+
+On week 3 of Module 2 in Cybersecurity 6-16-23
 
 
 
