@@ -1,4 +1,4 @@
-# Cybersecurity-Google
+# Cybersecurity
 Started cybersecurity course
   6/2/2023
       - Week 1
